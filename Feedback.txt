@@ -1,0 +1,9 @@
+K(30%): 70
+I(30%): 60
+C(10%): 60
+A(30%): 60
+63 of 80% - 50.4%
+
+Your card class came out really well, however you used double instead of int for the value
+Deck class could use some work but the start was okay.  Don't forget to use the best data structure for the job (ArrayList would have made most this a lot easier).
+Don't forget javadocs!
